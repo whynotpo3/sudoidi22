@@ -1,16 +1,13 @@
 {
   "channels": [
-    "C1_Deutsch",
-    "doch_ffm",
-    "kpfkino",
-    "mlaylala_spricht",
-    "genau",
-    "ZinaidaPronchenko",
-    "ISStuda",
-    "casadeutsch"
+    "AnantaRu",
+    "vaniananta",
+    "ru2chvg",
+    "anantaRuNews",
+    "shifrovalnya"
   ],
-  "max_feed_items": 10,
-  "messages_to_fetch": 10,
-  "github_repository": "shadrunov/rssfy-telegram",
+  "max_feed_items": ,
+  "messages_to_fetch": 20,
+  "github_repository": "whynotpo3/rssfy-telegram",
   "github_branch": "main"
 }
