@@ -167,7 +167,9 @@ def message_to_entry(
     elif isinstance(msg.media, MessageMediaPhoto):
         description_parts.append("<p>[Photo]</p>")
     elif isinstance(msg.media, MessageMediaDocument):
-        description_parts.append("<p>[Document/Video]</p>")
+        description_parts.append(
+            f'<p><a href="{url}">[Watch on Telegram]</a></p>'
+        )
 
     if text:
         html_text = _entities_to_html(text, getattr(msg, "entities", None))
