@@ -6,7 +6,7 @@
     "anantaRuNews",
     "shifrovalnya"
   ],
-  "max_feed_items": ,
+  "max_feed_items": 20,
   "messages_to_fetch": 20,
   "github_repository": "whynotpo3/sudoidi22",
   "github_branch": "main"
