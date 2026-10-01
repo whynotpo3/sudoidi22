@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Попался на запуске VPN на российском хостинге — год не сможешь пользоваться х...</title>
+      <link>https://t.me/shifrovalnya/1017</link>
+      <description>&lt;b&gt;Попался на запуске VPN на российском хостинге — год не сможешь пользоваться хостингом в РФ&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Такую меру добавили в &lt;a href="https://t.me/shifrovalnya/730"&gt;законопроект&lt;/a&gt; «Антифрод 3.0», который примут 1 марта 2028 года. &lt;br&gt;
+&lt;br&gt;
+Так как все регистрации на российских хостингах проходят только через ЕСИА (полный деанон), то, грубо говоря, персональные данные всех, кого уличили в разворачивании VPN, будут заноситься в специальный реестр. &lt;br&gt;
+&lt;br&gt;
+А каждый хостинг-провайдер должен будет сверять данные клиента с этим реестром. Если пользователь был замечен за развёртыванием VPN, ему откажут в аренде VDS и VPS.&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1017</guid>
+      <pubDate>Thu, 01 Oct 2026 07:45:38 +0000</pubDate>
+    </item>
     <item>
       <title>Власти планируют уведомлять об административных штрафах через MAX</title>
       <link>https://t.me/shifrovalnya/1016</link>
@@ -155,134 +170,6 @@
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1008</guid>
       <pubDate>Mon, 28 Sep 2026 12:45:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Российские провайдеры начали добавлять в договор-оферту форсмажор, касающийся...</title>
-      <link>https://t.me/shifrovalnya/1007</link>
-      <description>&lt;b&gt;Российские провайдеры начали добавлять в договор-оферту форсмажор, касающийся беспилотников&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-С сегодняшнего дня провайдер облачных сервисов &lt;code&gt;Cloud.ru&lt;/code&gt; не несёт ответственности за непредоставление услуг из-за обстрелов БПЛА. В договоре-оферте прямо указано, что это — «обстоятельства непреодолимой силы при исполнении обязательств перед клиентами».&lt;br&gt;
-&lt;br&gt;
-Если облако работает нестабильно, пользователь имеет право на компенсацию — например, скидку на следующий платёж. Но простой из-за форс-мажора не учитывается, поэтому если сервера лягут из-за БПЛА, то никаких компенсаций не будет.&lt;br&gt;
-&lt;br&gt;
-Почему сейчас? Последние несколько дней ВС РФ &lt;a href="https://t.me/shifrovalnya/1006"&gt;бьют&lt;/a&gt; по украинским дата-центрам. Минобороны РФ называет это «цифровым детоксом».&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1007</guid>
-      <pubDate>Mon, 28 Sep 2026 11:36:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ВС РФ несколько дней подряд бьют по украинским дата-центрам. Минобороны назыв...</title>
-      <link>https://t.me/shifrovalnya/1006</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1006.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;ВС РФ несколько дней подряд бьют по украинским дата-центрам. Минобороны называет это «цифровым детоксом»&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-За последние дни Минобороны отчиталось об ударах по целой серии дата-центров и телеком-узлов в Киеве — среди них площадки «Киевстара», Vodafone, Cosmonova и Omega Telecom. Ведомство утверждает, что они предоставляли связь и вычислительные мощности ВСУ. Сегодня к очередной сводке военные приложили мем: «Цифровой детокс. В принудительном режиме!»&lt;br&gt;
-&lt;br&gt;
-После одного из ударов проблемы с интернетом возникли примерно у 100 тысяч домохозяйств, а NetBlocks фиксировал падение связности сразу у четырёх провайдеров. Один из поражённых дата-центров Cosmonova после повторных ударов вообще прекратил работу. &lt;br&gt;
-&lt;br&gt;
-Даже пророссийские эксперты критикуют Минобороны за открытие подобного «окна возможностей», так как ответные меры для РФ будут куда болезненнее.  Для интернета украинцы могут использовать в том числе Starlink, когда у России такого аналога нет. Также, например, AWS хранит больше 15 петабайт данных более чем 60 украинских госорганизаций. Россия же годами строила «цифровой суверенитет» и ограничивала использование зарубежной инфраструктуры.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1006</guid>
-      <pubDate>Sun, 27 Sep 2026 18:58:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yandex AI Studio продаёт входные токены китайских нейронок более чем в 20 раз...</title>
-      <link>https://t.me/shifrovalnya/1005</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1005.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Yandex AI Studio продаёт входные токены китайских нейронок более чем в 20 раз дороже рынка. А кэш — почти в 300&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-В прайсе Yandex AI Studio миллион входных токенов DeepSeek V4.1 Flash стоит 300 ₽, выходных — 500 ₽. У самого DeepSeek та же модель обходится примерно в 13–25 ₽ за вход и 51–101 ₽ за выход, в зависимости от времени. Наценка — до 24 раз на входе и почти до 10 раз на выходе.&lt;br&gt;
-&lt;br&gt;
-С Qwen похожая картина. Qwen3.6 35B у «Яндекса» стоит 200 ₽ за миллион входных токенов, а в официальном API Alibaba — примерно 21–32 ₽. Qwen3 235B — 500 ₽ против 24–59 ₽. То есть на входе разница местами превышает 20 раз.&lt;br&gt;
-&lt;br&gt;
-Но особенно красиво вышло с кэшем DeepSeek: 75 ₽ за миллион токенов у «Яндекса» против 25–51 копейки напрямую. Это уже наценка&lt;b&gt; &lt;/b&gt;примерно в 150–300 раз.&lt;br&gt;
-&lt;br&gt;
-Так что если хочется пользоваться нейронками без «отечественной» наценки, логичнее использовать официальные API. С оплатой из России поможет &lt;a href="https://t.me/oplatych_bot?start=shifr"&gt;«Оплатыч»&lt;/a&gt; — там зарубежные сервисы оплачиваются в рублях или крипте. Также есть мультивалютные карты под ключ. Изучайте &lt;a href="https://t.me/oplatych_bot?start=shifr"&gt;по ссылке&lt;/a&gt;.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1005</guid>
-      <pubDate>Sun, 27 Sep 2026 17:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Те IP-адреса VPN-сервисов, которые сливают российские приложения, начали авто...</title>
-      <link>https://t.me/shifrovalnya/1004</link>
-      <description>&lt;b&gt;Те IP-адреса VPN-сервисов, которые сливают российские приложения, начали автоматически блокировать. Как это работает?&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Как вы помните, весной Минцифры потребовало от крупнейших российских сервисов определять пользователей с VPN. RKS Global тогда &lt;a href="https://t.me/shifrovalnya/320"&gt;проверила&lt;/a&gt; 30 популярных Android-приложений — от «Сбера» и «Яндекса» до VK, Ozon, Wildberries и MAX — и обнаружила детектирование VPN во всех 30. Некоторые из российских приложений просто обнаруживают VPN, но какие-то определяют IP-адрес сервера, который использует VPN. И вот именно их начали автоматически блокировать.&lt;br&gt;
-&lt;br&gt;
-Однако, поскольку IP-адреса регулярно меняются и переназначаются, в Роскомнадзоре не блокируют их навсегда, а используют кулдауны. Грубо говоря, после того как российские приложения «настучали» в РКН IP вашего VPN-сервиса, данный адрес блокируется на некоторый срок — до 3 недель.&lt;br&gt;
-&lt;br&gt;
-О том, что так будет, мы писали ещё в апреле, поэтому сделали &lt;a href="https://t.me/shifrovalnya/293"&gt;классную инструкцию&lt;/a&gt; о том, как не дать российским приложениям получать информацию о IP-адресе вашего VPN. Пользуйтесь и делитесь &lt;a href="https://t.me/shifrovalnya/293"&gt;ей&lt;/a&gt; с друзьями.&lt;br&gt;
-&lt;br&gt;
-И да! Как всегда, мы рекомендуем &lt;a href="https://blanc.link/shifr"&gt;BlancVPN&lt;/a&gt; — ограничений по количеству устройств нет, а приятная скидка &lt;a href="https://blanc.link/shifr"&gt;по этой ссылке&lt;/a&gt; есть.&lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1004</guid>
-      <pubDate>Sun, 27 Sep 2026 15:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>На iPhone в России научились включать 5G. А некоторые за это уже просят 399 р...</title>
-      <link>https://t.me/shifrovalnya/1002</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1002.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1003.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;На iPhone в России научились включать 5G. А некоторые за это уже просят 399 рублей&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Способ работает через подмену настроек оператора — для этого нужен только iPhone и Mac, никакого джейлбрейка. То есть, ваш iPhone начинает думать, что симка не МТС, а, например, Vodafone, и разрешает доступ к 5G. Правда, после перезагрузки надо проделывать процедуру заново.&lt;br&gt;
-&lt;br&gt;
-Довольны остались не все: у многих значок 5G появился, но скорости не прибавилось. Всё потому, что 5G в России — &lt;a href="https://t.me/shifrovalnya/923"&gt;вовсе не 5G&lt;/a&gt;. У кого-то скорость и правда выросла, но это скорее исключительный случай. &lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1002</guid>
-      <pubDate>Sun, 27 Sep 2026 12:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>В MAX блокируют аккаунты пользователей, чьи номера телефонов замораживают опе...</title>
-      <link>https://t.me/shifrovalnya/1001</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1001.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;В MAX блокируют аккаунты пользователей, чьи номера телефонов замораживают&lt;/b&gt; &lt;b&gt;операторы&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-У пользователя оператор заморозил номер за неуплату и его аккаунт сразу же заморозили в «Максе». Но самое интересное — номер &lt;a href="https://t.me/doc_adm/532"&gt;парень&lt;/a&gt; восстановил, а аккаунт не смог.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1001</guid>
-      <pubDate>Sun, 27 Sep 2026 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>На умные телевизоры, ввозимые в Россию, должен быть предустановлен RuStore</title>
-      <link>https://t.me/shifrovalnya/1000</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1000.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;На умные телевизоры, ввозимые в Россию, должен быть предустановлен RuStore&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Такой проект подготовили в Минцифре. Более трёх лет назад появилось требование — переустанавливать RuStore на смартфоны как системное приложение.&lt;br&gt;
-&lt;br&gt;
-А несколько дней назад власти также &lt;a href="https://t.me/shifrovalnya/974"&gt;начали&lt;/a&gt; подготавливать ряд мер, нацеленных на импортозамешение товаров для умного дома.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1000</guid>
-      <pubDate>Sat, 26 Sep 2026 12:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Так будет выглядеть самый «сесурный» телефон, совместимый с GrapheneOS</title>
-      <link>https://t.me/shifrovalnya/997</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/997.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/998.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/999.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Так будет выглядеть самый «сесурный» телефон, совместимый с GrapheneOS&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Как вы помните, Google начал &lt;a href="https://t.me/shifrovalnya/834"&gt;препятствовать&lt;/a&gt; разработке GrapheneOS для линейки Pixel. Также уже в Pixel 11 урезали аппаратное тегирование памяти, из-за чего смартфоны стали менее безопасными, а выход GrapheneOS для этой модели теперь под вопросом.&lt;br&gt;
-&lt;br&gt;
-Команда GrapheneOS заключила сделку с китайской Motorola (дочерняя компания Lenovo). А на днях появилось изображение (это официально) того самого Motorola Signature 27, который будет поддерживать GrapheneOS. &lt;br&gt;
-&lt;br&gt;
-Смартфон появится в продаже уже в конце этого года, а GrapheneOS к нему выйдет в начале следующего.&lt;br&gt;
-&lt;br&gt;
-Урод – 🍓&lt;br&gt;
-Норм – ♥️&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/997</guid>
-      <pubDate>Fri, 25 Sep 2026 17:01:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
