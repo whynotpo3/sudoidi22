@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:19:03 +0000</lastBuildDate>
+    <item>
+      <title>Более половины российских линий связи интернет-трафика деградировали, но меня...</title>
+      <link>https://t.me/shifrovalnya/1018</link>
+      <description>&lt;b&gt;Более половины российских линий связи интернет-трафика деградировали, но менять их пока не будут&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Якобы, пишут «Известия», более 50% интернет-магистралей в России превысили свой гарантированный срок службы в 25 лет. Но в Минцифры обновлять их не спешат, заявив, что оптоволокно будут менять по мере выхода его из строя.&lt;br&gt;
+&lt;br&gt;
+Эксперты полагают, что такое отложенное обновление оптоволоконных магистралей приведет к ухудшению связи, так как с возрастом у кабелей пропускная способность и дальность передачи снижаются.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1018</guid>
+      <pubDate>Thu, 01 Oct 2026 09:09:03 +0000</pubDate>
+    </item>
     <item>
       <title>Попался на запуске VPN на российском хостинге — год не сможешь пользоваться х...</title>
       <link>https://t.me/shifrovalnya/1017</link>
@@ -149,27 +162,6 @@
 &lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1009</guid>
       <pubDate>Mon, 28 Sep 2026 14:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сотрудникам банков с отозванными TLS-сертификатами, нужно ставить корневой се...</title>
-      <link>https://t.me/shifrovalnya/1008</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1008.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Сотрудникам банков с отозванными TLS-сертификатами, нужно ставить корневой сертификат Минцифры на свои телефоны, чтобы работать. Иначе никак&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-С нами связался сотрудник «Совкомбанка». Его банк использует корпоративное приложение Pirus, которым сотрудники пользуются со смартфонов. Оно напрямую обращается к серверам банка, но так как сертификаты отозваны, ничего не работает.&lt;br&gt;
-&lt;br&gt;
-В этой ситуации у подписчика есть только три пути: &lt;br&gt;
-🛑установка корневого сертификата от Минцифры на основное устройство;&lt;br&gt;
-🛑покупка второго телефона за свои средства под эти цели;&lt;br&gt;
-🛑и крайний вариант — телефон с GrapheneOS, так как в ней для каждого профиля пользователя можно загрузить отдельные сертификаты.&lt;br&gt;
-&lt;br&gt;
-Напомним, устанавливать сертификаты Минцифры на основное устройство небезопасно так как вы можете стать жертвой MITM-атаки.&lt;br&gt;
-&lt;br&gt;
-Видит кто-то иной выход из ситуации? Пишите в комментарии.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1008</guid>
-      <pubDate>Mon, 28 Sep 2026 12:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
