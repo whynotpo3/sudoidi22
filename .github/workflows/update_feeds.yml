@@ -2,10 +2,9 @@ name: Update RSS Feeds
 
 on:
   schedule:
-    # Run every hour
-    - cron: "0 8-23 * * *" 
-    timezone: "Europe/Warsaw"
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 8-23 * * *"
+      timezone: "Europe/Warsaw"
+  workflow_dispatch:
 
 permissions:
   contents: write
