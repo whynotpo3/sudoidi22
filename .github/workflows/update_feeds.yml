@@ -3,12 +3,16 @@ name: Update RSS Feeds
 on:
   schedule:
     # Run every hour
-    - cron: "0 8-23 * * *"
-    timezone: "Europe/Warsaw"
+    - cron: "0 * * * *"
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
   contents: write
+
+# Prevent feed updates from racing media cleanup.
+concurrency:
+  group: rssfy-repository-writes
+  cancel-in-progress: false
 
 jobs:
   update-feeds:
@@ -46,4 +50,52 @@ jobs:
           else
             git commit -m "chore: update RSS feeds [skip ci]"
             git push --force
+          fi
+
+  cleanup-media:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Delete unreferenced media older than one month
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          cutoff="$(date -u -d '1 month ago' +%s)"
+          deleted=0
+          referenced_media="$(mktemp)"
+          trap 'rm -f "$referenced_media"' EXIT
+
+          grep -rhoE 'feeds/media/[^"< >]+' feeds/*.xml 2>/dev/null \
+            | sort -u > "$referenced_media" || true
+
+          while IFS= read -r media_file; do
+            [ -n "$media_file" ] || continue
+            grep -Fxq "$media_file" "$referenced_media" && continue
+
+            last_commit="$(git log -1 --format=%ct -- "$media_file")"
+            if [ -n "$last_commit" ] && [ "$last_commit" -lt "$cutoff" ]; then
+              rm -- "$media_file"
+              deleted=$((deleted + 1))
+            fi
+          done < <(git ls-files -- 'feeds/media/*')
+
+          echo "Deleted $deleted unreferenced media file(s)."
+
+      - name: Commit and push deletions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -u -- feeds/media
+
+          if git diff --cached --quiet; then
+            echo "No media files older than one month."
+          else
+            git commit -m "chore: remove media older than one month [skip ci]"
+            git push
           fi
