@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 09:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:11:33 +0000</lastBuildDate>
+    <item>
+      <title>Главред Russia Today недовольна работой сервисов «Яндекс» и переходит «обратн...</title>
+      <link>https://t.me/shifrovalnya/1056</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1056.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Главред Russia Today недовольна работой сервисов «Яндекс» и переходит «обратно на Гугл»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Для справки: за последние 4 дня украинские БПЛА &lt;a href="https://t.me/shifrovalnya/1055?single"&gt;уничтожили&lt;/a&gt; 3 крупнейших дата-центра «Яндекса» из-за чего Рунет сильно сбоит. Сервисам «Яндекса» &lt;a href="https://t.me/shifrovalnya/1055?single"&gt;досталось&lt;/a&gt; больше всего &lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1056</guid>
+      <pubDate>Sun, 11 Oct 2026 17:07:08 +0000</pubDate>
+    </item>
     <item>
       <title>Атакован дата-центр «Яндекса» во Владимире — третий за неделю. В рунете масшт...</title>
       <link>https://t.me/shifrovalnya/1047</link>
@@ -145,13 +157,6 @@
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1040</guid>
       <pubDate>Fri, 09 Oct 2026 11:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #1032</title>
-      <link>https://t.me/shifrovalnya/1032</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1032.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1032</guid>
-      <pubDate>Tue, 06 Oct 2026 12:47:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
