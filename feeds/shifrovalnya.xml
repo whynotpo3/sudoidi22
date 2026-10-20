@@ -7,7 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:27:44 +0000</lastBuildDate>
+    <item>
+      <title>Хакеры взломали отечественную систему управления хостингом и украли данные кл...</title>
+      <link>https://t.me/shifrovalnya/1110</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1110.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Хакеры взломали отечественную систему управления хостингом и украли данные клиентов российского провайдера&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+17 октября злоумышленники воспользовались уязвимостью в VMmanager 6 — платформе для управления виртуальными серверами — и проникли в инфраструктуру хостинг-провайдера FirstVDS.&lt;br&gt;
+&lt;br&gt;
+На части серверов хакеры запустили программу-стилер. Она незаметно подключала диски клиентских VPS в режиме «только чтение» и копировала с них пароли, SSH- и API-ключи, токены, конфиги, историю команд, криптокошельки и пользовательские файлы. Всё это уходило на сервер злоумышленников. Сами серверы при этом продолжали работать как обычно, поэтому следов внутри них не осталось.&lt;br&gt;
+&lt;br&gt;
+Сколько клиентов пострадало, FirstVDS не раскрывает. Затронутым владельцам разослали уведомления и советуют считать скомпрометированным всё, что лежало на серверах. Уязвимость до конца пока не закрыта: разработчик выпустил промежуточные патчи и просит не открывать доступ к панели управления до новых обновлений.&lt;br&gt;
+&lt;br&gt;
+VMmanager разработала компания ISPsystem из «Группы Астра» — той самой, что создала Astra Linux для госнужд.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1110</guid>
+      <pubDate>Tue, 20 Oct 2026 08:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #1100</title>
+      <link>https://t.me/shifrovalnya/1100</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1100.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1101.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1100</guid>
+      <pubDate>Sun, 18 Oct 2026 04:39:30 +0000</pubDate>
+    </item>
     <item>
       <title>Роскомнадзор утвердил список стран, куда персональные данные россиян могут пе...</title>
       <link>https://t.me/shifrovalnya/1109</link>
@@ -117,39 +143,6 @@ Cервисы VK доступны, но пользователи жалуютс�
 &lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1099</guid>
       <pubDate>Sun, 18 Oct 2026 04:39:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Питерский ЦОД VK горит после атаки БПЛА. В компании подтвердили атаку</title>
-      <link>https://t.me/shifrovalnya/1097</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1098.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Питерский ЦОД VK горит после атаки БПЛА. В компании подтвердили атаку&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-В официальном сообщении VK заявили, что их сервисы работают в «штатном режиме». Однако пользователи жалуются на сбои в работе сервисов. Более того, о сбоях пишут даже госСМИ по типу «Вестей».&lt;br&gt;
-&lt;br&gt;
-Ленинградский ЦОД VK сама компания называла «мозгом» — в нём больше 20 тысяч серверов и основная часть данных пользователей. В 2015 году соцсеть выкупила этот дата-центр у Павла Дурова.&lt;br&gt;
-&lt;br&gt;
-Также в сети распространяются видео с сильным пожаром — это питерский нефтяной терминал, его тоже этой ночью атаковали БПЛА.&lt;br&gt;
-&lt;br&gt;
-Ранее украинские БПЛА настигали &lt;a href="https://t.me/shifrovalnya/1047"&gt;три&lt;/a&gt; дата-центра «Яндекса» и &lt;a href="https://t.me/shifrovalnya/1075"&gt;один&lt;/a&gt; «Сбера». У VK сегодня это первая атака БПЛА.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1097</guid>
-      <pubDate>Sun, 18 Oct 2026 04:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минцифры хотели бороться с VPN при помощи ИИ. По их подсчётам, у них бы вышло...</title>
-      <link>https://t.me/shifrovalnya/1089</link>
-      <description>&lt;b&gt;Минцифры хотели бороться с VPN при помощи ИИ. По их подсчётам, у них бы вышло заблокировать около 95% обходов. Но будут ли?&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-«Коммерсанту» за запрос Минцифры ответили,, что якобы от ИИ они всё же решили отказаться. Хотя само издание подмечает, что такая мера озвучивалась в проекте нацплана до 2030 года. Нейросеть должна была вычислять VPN по поведению трафика. &lt;br&gt;
-&lt;br&gt;
-Якобы проблема в том, что корпоративные VPN, облака и звонки для такой системы выглядят так же, как обход блокировок. Поэтому под раздачу попадёт и обычный трафик. Деньги на всё это при этом есть: в 2027 году ГРЧЦ &lt;a href="https://t.me/shifrovalnya/1027"&gt;получит&lt;/a&gt; 20 млрд рублей на борьбу с VPN. Были в начале этого года также и &lt;a href="https://t.me/shifrovalnya/78"&gt;выделены&lt;/a&gt; деньги конкретно на нейросети для блокировок — 2,27 млрд рублей.&lt;br&gt;
-&lt;br&gt;
-Если нужен VPN, который не конфликтует с российскими приложениями и работает на любом количестве устройств, присмотритесь к &lt;a href="https://blanc.link/shifr"&gt;BlancVPN&lt;/a&gt;. По &lt;a href="https://blanc.link/shifr"&gt;этой ссылке&lt;/a&gt; действует приятная скидка, а если что-то не понравится, ребята вернут деньги.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1089</guid>
-      <pubDate>Fri, 16 Oct 2026 04:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
