@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:25:11 +0000</lastBuildDate>
+    <item>
+      <title>Банками в России можно будет пользоваться только предоставив им доступ ко все...</title>
+      <link>https://t.me/shifrovalnya/1126</link>
+      <description>&lt;b&gt;Банками в России можно будет пользоваться только предоставив им доступ ко всем файлам на телефоне&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Такая мера будет введена с 1 марта 2027 года, &lt;a href="https://t.me/shifrovalnya/773"&gt;планы&lt;/a&gt; правительства не поменялись, сообщает ЦБ. Зачатки уже &lt;a href="https://t.me/shifrovalnya/670"&gt;есть&lt;/a&gt; у «Сбера» — их клиент ругается на вирусы практически всегда и просит дать доступ ко всем файлам.&lt;br&gt;
+&lt;br&gt;
+Как вы понимаете, на iOS приложения многих банков недоступны, мучать будут только Android-пользователей. У нас есть &lt;a href="https://t.me/shifrovalnya/293"&gt;пост-инструкция&lt;/a&gt; о том, как не дать российскому следящему приложению доступ к всей своей системе.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1126</guid>
+      <pubDate>Wed, 21 Oct 2026 17:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>Путин в Питере встречает международных гостей. С утра в городе сбоит интернет</title>
       <link>https://t.me/shifrovalnya/1125</link>
@@ -132,22 +145,6 @@ Romancev768 раздобыл смартфон за несколько дней �
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1112</guid>
       <pubDate>Wed, 21 Oct 2026 04:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поисковик «Яндекса» показывает фейковую страницу об отсутствии международного...</title>
-      <link>https://t.me/shifrovalnya/1102</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1102.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Поисковик «Яндекса» показывает фейковую страницу об отсутствии международного сертификата, чтобы рекламировать на ней «Яндекс Браузер»&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-На поддельной странице с ошибкой у пользователя два выбора: перейти на настоящую или скачать «Яндекс Браузер». &lt;br&gt;
-&lt;br&gt;
-Но есть и другие пути, если вам нужно открывать подобные сайты, например, — скачать &lt;a href="https://t.me/shifrovalnya/812"&gt;Ruthenium&lt;/a&gt;. Это обычный чистый браузер на базе Chromium, на котором российские сайты открываются с использованием лишь встроенных в браузер сертификатов Минцифры. &lt;br&gt;
-&lt;br&gt;
-Устанавливать корневой сертификат Минцифры на свой телефон конечно же не стоит, так как власти смогут детально отслеживать, перехватывать и подменять весь ваш трафик.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1102</guid>
-      <pubDate>Sun, 18 Oct 2026 10:58:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
