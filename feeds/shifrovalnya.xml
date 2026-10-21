@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:30:26 +0000</lastBuildDate>
+    <item>
+      <title>Приватный ключ, которому доверяли Chrome, Firefox, Apple и Microsoft, оказалс...</title>
+      <link>https://t.me/shifrovalnya/1112</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1112.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Приватный ключ, которому доверяли Chrome, Firefox, Apple и Microsoft, оказался равен четырём. Не 384-битному числу, а просто «4»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Индийский удостоверяющий центр eMudhra неправильно сгенерировал ключи для восьми своих промежуточных сертификатов. Восстановить их мог кто угодно прямо из самих сертификатов. С таким ключом можно выдать себя за любой сайт, от банка до почты, и браузер честно покажет замочек.&lt;br&gt;
+&lt;br&gt;
+Уязвимость существовала с апреля 2025 года. Chrome, Firefox, Apple и Microsoft &lt;a href="https://emudhra.we-have-a-problem.com/"&gt;заблокировали&lt;/a&gt; сертификаты только 17–20 октября. Сами браузеры, судя по логам Certificate Transparency, атаковать не могли. А вот приложения и программы, которые эти логи не проверяют, были уязвимы. Использовал ли кто-то дыру, неизвестно. Так что обновите браузер и систему.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1112</guid>
+      <pubDate>Wed, 21 Oct 2026 04:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поисковик «Яндекса» показывает фейковую страницу об отсутствии международного...</title>
+      <link>https://t.me/shifrovalnya/1102</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1102.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Поисковик «Яндекса» показывает фейковую страницу об отсутствии международного сертификата, чтобы рекламировать на ней «Яндекс Браузер»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+На поддельной странице с ошибкой у пользователя два выбора: перейти на настоящую или скачать «Яндекс Браузер». &lt;br&gt;
+&lt;br&gt;
+Но есть и другие пути, если вам нужно открывать подобные сайты, например, — скачать &lt;a href="https://t.me/shifrovalnya/812"&gt;Ruthenium&lt;/a&gt;. Это обычный чистый браузер на базе Chromium, на котором российские сайты открываются с использованием лишь встроенных в браузер сертификатов Минцифры. &lt;br&gt;
+&lt;br&gt;
+Устанавливать корневой сертификат Минцифры на свой телефон конечно же не стоит, так как власти смогут детально отслеживать, перехватывать и подменять весь ваш трафик.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1102</guid>
+      <pubDate>Sun, 18 Oct 2026 10:58:44 +0000</pubDate>
+    </item>
     <item>
       <title>Биржа MEXC вслед за BitGet уходит из России. В процессе «сворачивания» находи...</title>
       <link>https://t.me/shifrovalnya/1111</link>
@@ -113,28 +143,6 @@ VMmanager разработала компания ISPsystem из «Группы 
 @&lt;a href="https://t.me/shifr"&gt;shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1105</guid>
       <pubDate>Sun, 18 Oct 2026 17:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #1098</title>
-      <link>https://t.me/shifrovalnya/1098</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1098.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1098</guid>
-      <pubDate>Sun, 18 Oct 2026 04:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дуров прокомментировал удар украинских БПЛА по своему бывшему ЦОДу</title>
-      <link>https://t.me/shifrovalnya/1103</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1103.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1104.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Дуров прокомментировал удар украинских БПЛА по своему бывшему ЦОДу&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-«Взорванный сегодня под Петербургом дата-центр я построил 15 лет назад. Продал его ВК 12 лет назад», написал Павел.&lt;br&gt;
-&lt;br&gt;
-В своём посте он почему-то сослался на пост украинского прифронтового города Люботин Харьковской области, где опубликовали кадры поврежденного дата-центра под Питером. «Видно, что построен на совесть, стены толстые. Но не уберегли 🥲», добавил основатель VK.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1103</guid>
-      <pubDate>Sun, 18 Oct 2026 14:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
