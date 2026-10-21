@@ -7,7 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:27:45 +0000</lastBuildDate>
+    <item>
+      <title>#photo #photography #urban #atmospheric</title>
+      <link>https://t.me/tsukassadrive/3186</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3186.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+#photo #photography #urban #atmospheric&lt;br&gt;
+&lt;a href="https://x.com/neural_waves/status/2112915568210960444/photo/1"&gt;source&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/tsukassadrive/3186</guid>
+      <pubDate>Wed, 21 Oct 2026 15:04:08 +0000</pubDate>
+    </item>
     <item>
       <title>#photo #photography #aesthetic</title>
       <link>https://t.me/tsukassadrive/3185</link>
@@ -84,15 +93,6 @@
 &lt;a href="https://x.com/4c7i1/status/2107821989029384443/photo/1"&gt;source&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/tsukassadrive/3174</guid>
       <pubDate>Thu, 08 Oct 2026 16:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>#photo #photography #urban</title>
-      <link>https://t.me/tsukassadrive/3172</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3172.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-#photo #photography #urban &lt;br&gt;
-&lt;a href="https://x.com/drawasen/status/2107827947562209642/photo/1"&gt;source&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/tsukassadrive/3172</guid>
-      <pubDate>Thu, 08 Oct 2026 11:46:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
