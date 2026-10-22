@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:26:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:29:13 +0000</lastBuildDate>
+    <item>
+      <title>❗️Telegram исправили уязвимость, благодаря которой российские силовики узнава...</title>
+      <link>https://t.me/shifrovalnya/1131</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1131.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;❗️Telegram исправили уязвимость, благодаря которой российские силовики узнавали владельца каждого аккаунта, зарегистрированного на российский номер. Но есть нюанс&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+При регистрации каждого аккаунта в Telegram те люди, у кого добавлен ваш номер в контакты, получают уведомление «[имя] теперь в Telegram».&lt;br&gt;
+&lt;br&gt;
+Силовики воспользовались этой уязвимостью и создали систему, в рамках которой каждый российский номер добавлялся в Android-эмуляторы с Telegram, и они мгновенно узнавали о каждом зарегистрированном номере. Даже если потом данный аккаунт скрывает эти данные, информация у них уже есть.&lt;br&gt;
+&lt;br&gt;
+Теперь в Telegram при регистрации аккаунта появилась возможность не уведомлять контакты о его создании. Однако старых аккаунтов это не касается — они уже скомпрометированы. Примечательно, что в API функция появилась ещё в 2024 году, а в клиентах только сейчас. &lt;br&gt;
+&lt;br&gt;
+❗️Поэтому недавно мы &lt;a href="https://t.me/shifrovalnya/1083"&gt;призывали&lt;/a&gt; своих подписчиков заводить новые аккаунты при помощи нашего бота &lt;a href="http://t.me/shifrSMSbot"&gt;ShifrSMS&lt;/a&gt; на арендованные номера. Просто создавайте аккаунт и сразу подключайте двухфакторную аутентификацию, чтобы его не украли.&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1131</guid>
+      <pubDate>Thu, 22 Oct 2026 16:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вчера весь мир латал дыру в PHP, которой 14 лет и которую нашла нейросеть. «Р...</title>
+      <link>https://t.me/shifrovalnya/1130</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1130.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Вчера весь мир латал дыру в PHP, которой 14 лет и которую нашла нейросеть. «Рег.ру» из-за неё только сегодня закрыл клиентам загрузку файлов&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+21 октября разработчики PHP выпустили экстренные патчи для двух критических уязвимостей под общим названием PHP2Shell. Через них можно без авторизации выполнить код на сервере и вытащить из памяти пароли, токены и API-ключи. Уязвимы все версии PHP за последние 10+ лет, а на PHP работает около 70% сайтов в мире. Одну из дыр нашли с помощью нейросети OpenAI. По словам сооснователя компании Грега Брокмана, баг жил в PHP 14 лет.&lt;br&gt;
+&lt;br&gt;
+А сегодня «Рег.ру» временно запретил клиентам загружать файлы на свой хостинг именно из-за этих уязвимостей. Вместо загрузки пользователи видят «ошибку 403». В техподдержке объяснили, что так защищают сайты клиентов. При этом уязвимость уже массово эксплуатируют хакеры, а попытки атак фиксировали ещё до публикации патча. Пострадал ли кто-то из клиентов «Рег.ру» — неизвестно.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1130</guid>
+      <pubDate>Thu, 22 Oct 2026 15:55:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #1120</title>
+      <link>https://t.me/shifrovalnya/1120</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1120.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1121.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1122.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1123.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1120</guid>
+      <pubDate>Wed, 21 Oct 2026 11:38:08 +0000</pubDate>
+    </item>
     <item>
       <title>Чел взломал «Яндекс Колонку» и рассказал как это сделать. Это вышло, благодар...</title>
       <link>https://t.me/shifrovalnya/1129</link>
@@ -119,41 +161,6 @@ Romancev768 раздобыл смартфон за несколько дней �
 &lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1106</guid>
       <pubDate>Sun, 18 Oct 2026 17:18:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #1104</title>
-      <link>https://t.me/shifrovalnya/1104</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1104.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1104</guid>
-      <pubDate>Sun, 18 Oct 2026 14:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Минцифры создали штаб по защите объектов связи от БПЛА</title>
-      <link>https://t.me/shifrovalnya/1113</link>
-      <description>&lt;b&gt;В Минцифры создали штаб по защите объектов связи от БПЛА&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Об этом заявил замглавы ведомства Дмитрий Угнивенко на форуме «Спектр 2026». Уже составлен перечень важнейших объектов связи, которые будут защищать, и налажено взаимодействие с Минобороны.&lt;br&gt;
-&lt;br&gt;
-Главный упор в требованиях к защите сделан на резервирование узлов связи и магистральных линий.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1113</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дуров прокомментировал удар украинских БПЛА по своему бывшему ЦОДу</title>
-      <link>https://t.me/shifrovalnya/1103</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1103.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1104.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Дуров прокомментировал удар украинских БПЛА по своему бывшему ЦОДу&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-«Взорванный сегодня под Петербургом дата-центр я построил 15 лет назад. Продал его ВК 12 лет назад», написал Павел.&lt;br&gt;
-&lt;br&gt;
-В своём посте он почему-то сослался на пост украинского прифронтового города Люботин Харьковской области, где опубликовали кадры поврежденного дата-центра под Питером. «Видно, что построен на совесть, стены толстые. Но не уберегли 🥲», добавил основатель VK.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1103</guid>
-      <pubDate>Sun, 18 Oct 2026 14:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
