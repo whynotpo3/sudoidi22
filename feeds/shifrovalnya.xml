@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:21:37 +0000</lastBuildDate>
+    <item>
+      <title>❗️Telegram исправили уязвимость, благодаря которой российские силовики узнава...</title>
+      <link>https://t.me/shifrovalnya/1131</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1131.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;❗️Telegram исправили уязвимость, благодаря которой российские силовики узнавали владельца каждого аккаунта, зарегистрированного на российский номер. Но есть нюанс&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+При регистрации каждого аккаунта в Telegram те люди, у кого добавлен ваш номер в контакты, получают уведомление «[имя] теперь в Telegram».&lt;br&gt;
+&lt;br&gt;
+Силовики воспользовались этой уязвимостью и создали систему, в рамках которой каждый российский номер добавлялся в Android-эмуляторы с Telegram, и они мгновенно узнавали о каждом зарегистрированном номере. Даже если потом данный аккаунт скрывает эти данные, информация у них уже есть.&lt;br&gt;
+&lt;br&gt;
+Теперь в Telegram при регистрации аккаунта появилась возможность не уведомлять контакты о его создании. Однако старых аккаунтов это не касается — они уже скомпрометированы. Примечательно, что в API функция появилась ещё в 2024 году, а в клиентах только сейчас. &lt;br&gt;
+&lt;br&gt;
+❗️Поэтому недавно мы &lt;a href="https://t.me/shifrovalnya/1083"&gt;призывали&lt;/a&gt; своих подписчиков заводить новые аккаунты при помощи нашего бота &lt;a href="http://t.me/shifrSMSbot"&gt;ShifrSMS&lt;/a&gt; на арендованные номера. Просто создавайте аккаунт и сразу подключайте двухфакторную аутентификацию, чтобы его не украли.&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1131</guid>
+      <pubDate>Thu, 22 Oct 2026 16:28:40 +0000</pubDate>
+    </item>
     <item>
       <title>Вчера весь мир латал дыру в PHP, которой 14 лет и которую нашла нейросеть. «Р...</title>
       <link>https://t.me/shifrovalnya/1130</link>
@@ -151,18 +169,6 @@ Romancev768 раздобыл смартфон за несколько дней �
 @sh&lt;a href="https://t.me/shifr"&gt;ifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1135</guid>
       <pubDate>Fri, 23 Oct 2026 17:54:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ФСБ отреагировали на критическую уязвимость в PHP спустя сутки после всего мира</title>
-      <link>https://t.me/shifrovalnya/1132</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1132.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;ФСБ отреагировали на критическую уязвимость в PHP спустя сутки после всего мира&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Пока сайты по всему миру срочно ставили патч или отключались, а предупреждения рассылали правительства и крупнейшие СМИ (в Японии с обращением выступила лично премьер Санаэ Такаити), Центр кибербезопасности при ФСБ отреагировал лишь на следующий день. Сегодня силовики разослали своё предупреждение.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1132</guid>
-      <pubDate>Thu, 22 Oct 2026 19:18:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
