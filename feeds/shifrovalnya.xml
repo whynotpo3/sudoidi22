@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:58:11 +0000</lastBuildDate>
+    <item>
+      <title>«Бюро 1440» уже не обещают спутниковый интернет в поездах в 2026. В 2027 году...</title>
+      <link>https://t.me/shifrovalnya/1136</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1136.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;«Бюро 1440» уже не обещают спутниковый интернет в поездах в 2026. В 2027 году они только установят терминалы в ж/д составах, но это не точно&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В следующем году обещают терминалы установить более чем в 500 поездах, а всего планируют оснастить несколько тысяч составов, рассказал замгендиректора компании Дмитрий Агафонов. Но сначала, по его &lt;a href="https://www.vedomosti.ru/business/news/2026/10/23/1239578-byuro-1440"&gt;словам&lt;/a&gt;, нужно убедиться, что технология вообще работает.&lt;br&gt;
+&lt;br&gt;
+Начиная с мая «Бюро 1440» &lt;a href="https://t.me/shifrovalnya/413"&gt;начали&lt;/a&gt; обещать, что поезда дальнего следования РЖД получат интернет из космоса уже до конца 2026 года. Последнее такое обещание было 10 августа  😂&lt;br&gt;
+&lt;br&gt;
+Напомним, спутники компании н&lt;a href="https://t.me/shifrovalnya/869"&gt;е набирают &lt;/a&gt;нужную высоту, а, по словам Зеленского, Россия ж&lt;a href="https://t.me/shifrovalnya/1030"&gt;дёт &lt;/a&gt;помощи со спутниковым интернетом от Китая.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1136</guid>
+      <pubDate>Sat, 24 Oct 2026 05:21:11 +0000</pubDate>
+    </item>
     <item>
       <title>Банки попросили Минцифры обязать россиян иметь сертификат Минцифры на устройс...</title>
       <link>https://t.me/shifrovalnya/1139</link>
@@ -152,29 +168,6 @@
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1134</guid>
       <pubDate>Fri, 23 Oct 2026 14:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чел взломал «Яндекс Колонку» и рассказал как это сделать. Это вышло, благодар...</title>
-      <link>https://t.me/shifrovalnya/1129</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1129.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Чел взломал «Яндекс Колонку» и рассказал как это сделать. Это вышло, благодаря дырявому индийскому сертификату eMudhra&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-Благодаря индийским &lt;a href="https://t.me/shifrovalnya/1112"&gt;бедолагам&lt;/a&gt;, у россиянина &lt;a href="https://t.me/pvxblog/4723"&gt;получилось&lt;/a&gt; проникнуть в «Алису» и заполучить доступ ко всем её функциям без «Плюса» и интернета. А также: возможность накатить любую ИИ, подкинуть любое решение для умного дома, а не от «Яндекса» и многое другое.&lt;br&gt;
-&lt;b&gt;&lt;br&gt;
-Как это сделать?&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-🛑берём конфиг и ключ из e&lt;a href="https://git.gay/iwakura/eQuasar"&gt;Quasar;&lt;/a&gt;&lt;br&gt;
-🛑подменяете через DNS адреса qu&lt;code&gt;asar.yandex.net, &lt;/code&gt;qu&lt;code&gt;asar.yandex.ru и&lt;/code&gt; sc&lt;code&gt;bh.yandex.net, &lt;/code&gt;направляя их на локальный сервер;&lt;br&gt;
-🛑перезапускаете «Алису», отключив и снова подключив питание;&lt;br&gt;
-🛑после этого, можно получить доступ к shell через ADB на порту 5555&lt;code&gt;.&lt;br&gt;
-&lt;br&gt;
-U&lt;/code&gt;PD.&lt;b&gt; под&lt;/b&gt;писчик пишет, что «Яндекс» удалили индусский сертификат из «Алисы» в новом критическом обновлении. Если колонка уже обновлена, то не выйдет.&lt;br&gt;
-&lt;br&gt;
-UPD2&lt;b&gt;. Отк&lt;/b&gt;ат до заводских настроек возвращает колонку назад в уязвимое положение. «Яндекс Станция» — всё.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1129</guid>
-      <pubDate>Wed, 21 Oct 2026 17:56:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
