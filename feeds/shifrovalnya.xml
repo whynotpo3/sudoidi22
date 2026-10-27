@@ -7,7 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:30:02 +0000</lastBuildDate>
+    <item>
+      <title>Минцифры вновь планирует ограничить зарубежный трафик. Весной уже предлагали ...</title>
+      <link>https://t.me/shifrovalnya/1140</link>
+      <description>&lt;b&gt;Минцифры вновь планирует ограничить зарубежный трафик. Весной уже предлагали брать за него доплату. Что всё это значит?&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Минцифры может получить право ограничивать трафик с зарубежных доменов для российских пользователей сверх определённого лимита, &lt;a href="https://www.forbes.ru/tekhnologii/571083-domennaa-pec-mincifry-mozet-vvesti-limit-na-potreblenie-zarubeznogo-trafika"&gt;пишет&lt;/a&gt; Forbes. Размер лимита ещё предстоит установить. Коснётся ли это только мобильного или и домашнего интернета, издание не уточняет.&lt;br&gt;
+&lt;br&gt;
+Напомним, ещё весной операторам предлагали брать деньги за зарубежный трафик свыше 15 ГБ в месяц — тогда именно на мобильных сетях. В мае введение платы &lt;a href="https://t.me/shifrovalnya/1029"&gt;отложили&lt;/a&gt; как минимум до сентябрьских выборов, а в июле Минцифры вообще заявило, что её не рассматривает.&lt;br&gt;
+&lt;br&gt;
+Весной операторам также &lt;a href="https://t.me/shifrovalnya/336"&gt;ограничили&lt;/a&gt; расширение зарубежных каналов связи. Тогда мы уже &lt;a href="https://t.me/shifrovalnya/336"&gt;писали&lt;/a&gt;, что операторы окажутся в одной лодке с Минцифры: трафик растёт, каналы заполняются, а расширять их нельзя. Получается, бороться с VPN становится выгодно и самим операторам.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1140</guid>
+      <pubDate>Tue, 27 Oct 2026 22:10:03 +0000</pubDate>
+    </item>
     <item>
       <title>«Бюро 1440» уже не обещают спутниковый интернет в поездах в 2026. В 2027 году...</title>
       <link>https://t.me/shifrovalnya/1136</link>
@@ -156,18 +171,6 @@
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1130</guid>
       <pubDate>Thu, 22 Oct 2026 15:55:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Олег Газманов потерял доступ к хранившимся на «Яндекс Диске» неопубликованным...</title>
-      <link>https://t.me/shifrovalnya/1134</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1134.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Олег Газманов потерял доступ к хранившимся на «Яндекс Диске» неопубликованным песням и другим материалам — РБК&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-В «Яндексе» ответили, что продолжают работу над восстановлением после атаки БПЛА.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1134</guid>
-      <pubDate>Fri, 23 Oct 2026 14:26:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
