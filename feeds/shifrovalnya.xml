@@ -7,7 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:50:39 +0000</lastBuildDate>
+    <item>
+      <title>Apple и Microsoft внесли в реестр организаторов распространения информации (О...</title>
+      <link>https://t.me/shifrovalnya/1142</link>
+      <description>&lt;b&gt;Apple и Microsoft внесли в реестр организаторов распространения информации (ОРИ). Дело идёт к блокировкам?&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Запись об Apple в реестре ОРИ датирована 2 октября, следом туда попала и Microsoft. РКН может вносить в этот реестр компании принудительно. Например, в феврале 2025 года в реестр записали Cloudflare, а затем начали ограничивать доступ к серверам компании.&lt;br&gt;
+&lt;br&gt;
+Что вообще такое реестр ОРИ? Это особый статус для многих интернет-площадок, который обязывает их год хранить переписки, историю посещений, записи разговоров и прочую информацию, а затем, если на то будет запрос, — передавать её силовикам. Например, любой официально работающий в России мессенджер числится среди ОРИ.&lt;br&gt;
+&lt;br&gt;
+За отказ полагаются штрафы, а затем и блокировка всех сервисов компании. Хотя, к слову, тот же FaceTime и так уже блокируют.&lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1142</guid>
+      <pubDate>Wed, 28 Oct 2026 07:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Олег Газманов потерял доступ к хранившимся на «Яндекс Диске» неопубликованным...</title>
+      <link>https://t.me/shifrovalnya/1134</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1134.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Олег Газманов потерял доступ к хранившимся на «Яндекс Диске» неопубликованным песням и другим материалам — РБК&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+В «Яндексе» ответили, что продолжают работу над восстановлением после атаки БПЛА.&lt;br&gt;
+&lt;br&gt;
+@shifr</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1134</guid>
+      <pubDate>Fri, 23 Oct 2026 14:26:37 +0000</pubDate>
+    </item>
     <item>
       <title>Минцифры вновь планирует ограничить зарубежный трафик. Весной уже предлагали ...</title>
       <link>https://t.me/shifrovalnya/1140</link>
@@ -139,38 +166,6 @@
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1132</guid>
       <pubDate>Thu, 22 Oct 2026 19:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Telegram исправили уязвимость, благодаря которой российские силовики узнава...</title>
-      <link>https://t.me/shifrovalnya/1131</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1131.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;❗️Telegram исправили уязвимость, благодаря которой российские силовики узнавали владельца каждого аккаунта, зарегистрированного на российский номер. Но есть нюанс&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-При регистрации каждого аккаунта в Telegram те люди, у кого добавлен ваш номер в контакты, получают уведомление «[имя] теперь в Telegram».&lt;br&gt;
-&lt;br&gt;
-Силовики воспользовались этой уязвимостью и создали систему, в рамках которой каждый российский номер добавлялся в Android-эмуляторы с Telegram, и они мгновенно узнавали о каждом зарегистрированном номере. Даже если потом данный аккаунт скрывает эти данные, информация у них уже есть.&lt;br&gt;
-&lt;br&gt;
-Теперь в Telegram при регистрации аккаунта появилась возможность не уведомлять контакты о его создании. Однако старых аккаунтов это не касается — они уже скомпрометированы. Примечательно, что в API функция появилась ещё в 2024 году, а в клиентах только сейчас. &lt;br&gt;
-&lt;br&gt;
-❗️Поэтому недавно мы &lt;a href="https://t.me/shifrovalnya/1083"&gt;призывали&lt;/a&gt; своих подписчиков заводить новые аккаунты при помощи нашего бота &lt;a href="http://t.me/shifrSMSbot"&gt;ShifrSMS&lt;/a&gt; на арендованные номера. Просто создавайте аккаунт и сразу подключайте двухфакторную аутентификацию, чтобы его не украли.&lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1131</guid>
-      <pubDate>Thu, 22 Oct 2026 16:28:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вчера весь мир латал дыру в PHP, которой 14 лет и которую нашла нейросеть. «Р...</title>
-      <link>https://t.me/shifrovalnya/1130</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1130.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Вчера весь мир латал дыру в PHP, которой 14 лет и которую нашла нейросеть. «Рег.ру» из-за неё только сегодня закрыл клиентам загрузку файлов&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-21 октября разработчики PHP выпустили экстренные патчи для двух критических уязвимостей под общим названием PHP2Shell. Через них можно без авторизации выполнить код на сервере и вытащить из памяти пароли, токены и API-ключи. Уязвимы все версии PHP за последние 10+ лет, а на PHP работает около 70% сайтов в мире. Одну из дыр нашли с помощью нейросети OpenAI. По словам сооснователя компании Грега Брокмана, баг жил в PHP 14 лет.&lt;br&gt;
-&lt;br&gt;
-А сегодня «Рег.ру» временно запретил клиентам загружать файлы на свой хостинг именно из-за этих уязвимостей. Вместо загрузки пользователи видят «ошибку 403». В техподдержке объяснили, что так защищают сайты клиентов. При этом уязвимость уже массово эксплуатируют хакеры, а попытки атак фиксировали ещё до публикации патча. Пострадал ли кто-то из клиентов «Рег.ру» — неизвестно.&lt;br&gt;
-&lt;br&gt;
-@shifr</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1130</guid>
-      <pubDate>Thu, 22 Oct 2026 15:55:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
