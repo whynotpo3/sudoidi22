@@ -7,7 +7,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:44:54 +0000</lastBuildDate>
+    <item>
+      <title>#photo #heisei</title>
+      <link>https://t.me/tsukassadrive/3195</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3195.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+#photo #heisei&lt;br&gt;
+&lt;a href="https://x.com/ghost9449/status/2115768592675623051/photo/1"&gt;source&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/tsukassadrive/3195</guid>
+      <pubDate>Thu, 29 Oct 2026 15:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post #3184</title>
+      <link>https://t.me/tsukassadrive/3184</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3184.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/tsukassadrive/3184</guid>
+      <pubDate>Sun, 18 Oct 2026 13:33:05 +0000</pubDate>
+    </item>
     <item>
       <title>#photo #photography #nature</title>
       <link>https://t.me/tsukassadrive/3192</link>
@@ -77,23 +93,6 @@
 &lt;a href="https://www.flickr.com/photos/ccruzer/2205027919/in/faves-198300306@N04/"&gt;source&lt;/a&gt;</description>
       <guid isPermaLink="false">https://t.me/tsukassadrive/3185</guid>
       <pubDate>Mon, 19 Oct 2026 12:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>#y2k #design #scan</title>
-      <link>https://t.me/tsukassadrive/3183</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3183.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3184.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-#y2k #design #scan&lt;br&gt;
-&lt;a href="https://x.com/sovietsoleri/status/2111793947471405348/photo/1"&gt;source&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/tsukassadrive/3183</guid>
-      <pubDate>Sun, 18 Oct 2026 13:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post #3180</title>
-      <link>https://t.me/tsukassadrive/3180</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/tsukassadrive/3180.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/tsukassadrive/3180</guid>
-      <pubDate>Sun, 11 Oct 2026 16:08:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
