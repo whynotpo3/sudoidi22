@@ -7,7 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:16:45 +0000</lastBuildDate>
+    <item>
+      <title>Китайская нейросеть Kimi убрала оплату картой «Мир»</title>
+      <link>https://t.me/shifrovalnya/1156</link>
+      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1156.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
+&lt;b&gt;Китайская нейросеть Kimi убрала оплату картой «Мир»&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Вчера для россиян добавили способ оплаты в Kimi, но сегодня его пришлось убрать.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;UPD.&lt;/b&gt; Подписчики пишут что оплата картой «Мир» снова доступна в Kimi, но только российского IP.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Почему так?&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Предположительно, дело в риске международных санкций. Зарубежные сервисы и компании рискуют столкнуться со вторичными санкциями США и ЕС за сотрудничество с оператором карт «Мир».&lt;br&gt;
+&lt;br&gt;
+Кстати, приобретать зарубежные сервисы через &lt;a href="https://t.me/oplatych_bot?start=shifr"&gt;«Оплатыч»&lt;/a&gt;. Вы сможете оплатить подписки на любые сервисы, оплатить американские или китайские нейросети. Попробуйте в &lt;a href="https://t.me/oplatych_bot?start=shifr"&gt;мини-аппе&lt;/a&gt;. &lt;br&gt;
+&lt;br&gt;
+&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://t.me/shifrovalnya/1156</guid>
+      <pubDate>Sat, 31 Oct 2026 14:55:07 +0000</pubDate>
+    </item>
     <item>
       <title>У Binance украли 5,5 миллиардов долларов. «Средства пользователей в безопасно...</title>
       <link>https://t.me/shifrovalnya/1154</link>
@@ -139,20 +159,6 @@ Komet — независимый клиент мессенджера MAX, пос
 @shifr</description>
       <guid isPermaLink="false">https://t.me/shifrovalnya/1145</guid>
       <pubDate>Thu, 29 Oct 2026 09:17:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Неделю назад пользователь проник в «Яндекс Станцию» и изменил её системные на...</title>
-      <link>https://t.me/shifrovalnya/1150</link>
-      <description>&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/whynotpo3/sudoidi22/main/feeds/media/shifrovalnya/1150.jpg" alt="Photo" style="max-width:100%;"&gt;&lt;/p&gt;
-&lt;b&gt;Неделю назад пользователь проник в «Яндекс Станцию» и изменил её системные настройки, что привело к созданию целого сообщества, исследующих возможности «Алисы». Что с ней только не вытворяли...&lt;/b&gt;&lt;br&gt;
-&lt;br&gt;
-В «Яндексе», к слову, боролись — оперативно выпустили критическое обновление, в котором колонка больше не доверяла &lt;a href="https://t.me/shifrovalnya/1112"&gt;скомпрометированному&lt;/a&gt; индийскому сертификату, но за считанные минуты сообщество придумало обход — сброс до заводских настроек, отключение интернета, а затем — злое деяние. И начался настоящий ад.&lt;br&gt;
-&lt;br&gt;
-Чат энтузиастов набрал более 9000 участников. Кто-то запускал на колонке сервер Minecraft, кто-то менял «Алису AI» на DeepSeek, некоторые делали из диодных часов глаза или выводили на диодный экранчик матюки. Но самое интересное — все инструкции по проникновению в различные станции опубликовали на &lt;a href="https://hackalice.me/"&gt;сайте-вики&lt;/a&gt;. Там же есть мануал по подключению к &lt;a href="https://hackalice.me/recipes/packagemanagers/?h=ya"&gt;менеджерам пакетов&lt;/a&gt;, где, получив полный контроль над своей станцией, в пару кликов можно устанавливать и тестировать написанные кем-то фичи.&lt;br&gt;
-&lt;br&gt;
-&lt;a href="https://t.me/shifr"&gt;@shifr&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://t.me/shifrovalnya/1150</guid>
-      <pubDate>Thu, 29 Oct 2026 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
